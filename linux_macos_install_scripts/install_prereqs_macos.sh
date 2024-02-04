@@ -1,3 +1,4 @@
+
 #!/bin/bash
 echo "Installing dependencies..."
 brew install openjdk@17 ant automake libtool afflib libewf postgresql@15 testdisk libheif gstreamer 
